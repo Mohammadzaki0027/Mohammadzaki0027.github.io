@@ -4,6 +4,13 @@
 
   background-color: #a09998;
 }
+
+.titleofproject{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 #projecth1 {
   color: #965679;
   font-family: 'Courier New', Courier, monospace;
