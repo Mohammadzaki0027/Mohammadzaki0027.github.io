@@ -20,12 +20,12 @@ const Project = () => {
             <h1 className="descriptionh1">Description</h1>
             <div className="uldiv_style">
               <h5 className="unorderlist">
-                This Is Booking Website
+                This Is E-Booking Website
               </h5>
 
               <h5>
-                I Work on a Car Page,Payment page and also in Backend Parts.I
-                used Mongodb atlas to  Store data.I have done the filter sorting functionatily my using Mongoose and Express. 
+                I Work on a Car Page,Payment page and also Work in Backend Parts.I
+                used Mongodb atlas to  Store data.I have done the filter sorting functionatily 
               </h5>
             </div>
           </div>
